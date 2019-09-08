@@ -1,0 +1,8 @@
+*.suo
+*.pdb
+*.vshost.*
+obj/
+bin/BTree.pdb
+bin/BTree.vshost.exe
+bin/BTree.vshost.exe.config
+bin/BTree.vshost.exe.manifest
